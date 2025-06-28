@@ -1,1 +1,1 @@
-This is the demo o this project.
+This is the demo of this project.
